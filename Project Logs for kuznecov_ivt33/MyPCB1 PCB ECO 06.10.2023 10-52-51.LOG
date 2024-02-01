@@ -1,0 +1,900 @@
+Added Component: Designator=C1(0805_N)
+Add component (AddParameter): Name = "BOM"; Value = "К10-79-*-B-*+80%-20%-Н90 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CA010M0010REB-0405)
+Added Component: Designator=C3(CA010M0010REB-0405)
+Added Component: Designator=C4(0805_N)
+Add component (AddParameter): Name = "BOM"; Value = "К10-79-*-B-*+80%-20%-Н90 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0805_N)
+Add component (AddParameter): Name = "BOM"; Value = "К10-79-*-B-*+80%-20%-Н90 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0805_N)
+Add component (AddParameter): Name = "BOM"; Value = "К10-79-*-B-*+80%-20%-Н90 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0805_N)
+Add component (AddParameter): Name = "BOM"; Value = "К10-79-*-B-*+80%-20%-Н90 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0805_N)
+Add component (AddParameter): Name = "BOM"; Value = "К10-79-*-B-*+80%-20%-Н90 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0805_N)
+Add component (AddParameter): Name = "BOM"; Value = "К10-79-*-B-*+80%-20%-Н90 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=C10(K10-79_3.2_2.5(1210))
+Add component (AddParameter): Name = "Alias"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM"; Value = "Конденсатор К10-79-*-B-*±20%-Н30 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datum"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\papa\Info\Altium_Library\Даташиты_и_ТУ\Конденсаторы_отечественные\К10-79_АЖЯР_673511_004ТУ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hight"; Value = "1.75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryEngeneer"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LiveStatus"; Value = "производится"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "катушка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Permit MPSU"; Value = "разрешен"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "0.000005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RusAlias"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.2"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CA010M0010REB-0405)
+Added Component: Designator=C12(CA010M0010REB-0405)
+Added Component: Designator=C13(0805_N)
+Add component (AddParameter): Name = "BOM"; Value = "К10-79-*-B-*+80%-20%-Н90 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0805_N)
+Add component (AddParameter): Name = "BOM"; Value = "К10-79-*-B-*+80%-20%-Н90 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0805_N)
+Add component (AddParameter): Name = "BOM"; Value = "К10-79-*-B-*+80%-20%-Н90 АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "19_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ООО "Кулон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Конденсатор К10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "Н90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЖЯР.673511.004 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "K10-79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SO14-N)
+Add component (AddParameter): Name = "BOM"; Value = "74AC00SC "ON Semiconductor""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOIC-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "74AC00SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Микросхема 74AC00SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Voltage"; Value = "4.5 - 5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SO16-N)
+Add component (AddParameter): Name = "BOM"; Value = "74HCT151D "NXP Semiconductors""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "05.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "74HCT151D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Микросхема 74HCT151D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Voltage"; Value = "4.5 -5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SO14-N)
+Add component (AddParameter): Name = "BOM"; Value = "74AC00SC "ON Semiconductor""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOIC-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "74AC00SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Микросхема 74AC00SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Voltage"; Value = "4.5 - 5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SO16-N)
+Add component (AddParameter): Name = "BOM"; Value = "HCF4017BM1 "STMicroelectronics""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "05.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "HCF4017BM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Микросхема HCF4017BM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Voltage"; Value = "-0.5 -22 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SO16-N)
+Add component (AddParameter): Name = "BOM"; Value = "74HCT151D "NXP Semiconductors""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "05.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "74HCT151D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Микросхема 74HCT151D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Voltage"; Value = "4.5 -5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SO14-N)
+Add component (AddParameter): Name = "BOM"; Value = "74AC00SC "ON Semiconductor""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOIC-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "74AC00SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Микросхема 74AC00SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Voltage"; Value = "4.5 - 5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=D7(SO16-N)
+Add component (AddParameter): Name = "BOM"; Value = "HCF4017BM1 "STMicroelectronics""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "05.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "HCF4017BM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Микросхема HCF4017BM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Voltage"; Value = "-0.5 -22 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=D8(SO14-N)
+Add component (AddParameter): Name = "BOM"; Value = "74AC00SC "ON Semiconductor""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOIC-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "74AC00SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Микросхема 74AC00SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Voltage"; Value = "4.5 - 5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=D9(SOIC-16W-N)
+Add component (AddParameter): Name = "BOM"; Value = "MC14520BDWG "Motorola""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "6.01.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MC14520BDWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Микросхема MC14520BDWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=D10(LM1117DTX)
+Added Component: Designator=R1(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_0805_2012_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,125 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_Date"; Value = "05_12_2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,125±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,01"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_0603_1608_N)
+Add component (AddParameter): Name = "BOM"; Value = "Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "10.04.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ОАО "НПО "Эркон""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Резистор Р1-12-0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKR"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "АЛЯР.434110.005 ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Р1-12-0,1±5%-М-"А""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_KD"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0,005"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(LED_5mm)
+Add component (AddParameter): Name = "BoM"; Value = "521-9466 "Dialight""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "521-9466"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(LED_5mm)
+Add component (AddParameter): Name = "BoM"; Value = "521-9466 "Dialight""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "521-9466"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(LED_5mm)
+Add component (AddParameter): Name = "BoM"; Value = "521-9466 "Dialight""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "521-9466"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(LED_5mm)
+Add component (AddParameter): Name = "BoM"; Value = "521-9466 "Dialight""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "521-9466"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(LED_5mm)
+Add component (AddParameter): Name = "BoM"; Value = "521-9466 "Dialight""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "521-9466"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(LED_5mm)
+Add component (AddParameter): Name = "BoM"; Value = "521-9466 "Dialight""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "521-9466"; VariantName = "[No Variations]"
+Added Component: Designator=VD7(LED_5mm)
+Add component (AddParameter): Name = "BoM"; Value = "521-9466 "Dialight""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "521-9466"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(BH-10R)
+Add component (AddParameter): Name = "BOM"; Value = "TE_1-1634689-0 "TE Connectivity""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "BH-10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "13.05.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "TE_1-1634689-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Вилка угловая TE_1-1634689-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(BH-10R)
+Add component (AddParameter): Name = "BOM"; Value = "TE_1-1634689-0 "TE Connectivity""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "BH-10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_by"; Value = "Желобаев"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Issue_date"; Value = "13.05.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "TE_1-1634689-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name2"; Value = "Вилка угловая TE_1-1634689-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Version"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=+5V Pin=C2-+
+Added Pin To Net: NetName=GND Pin=C2--
+Added Pin To Net: NetName=+5V Pin=C3-+
+Added Pin To Net: NetName=GND Pin=C3--
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=+5V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5V Pin=C7-2
+Added Pin To Net: NetName=+5V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+5V Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC11_+ Pin=C11-+
+Added Pin To Net: NetName=NetC11_- Pin=C11--
+Added Pin To Net: NetName=+5V Pin=C12-+
+Added Pin To Net: NetName=NetC11_- Pin=C12--
+Added Pin To Net: NetName=NetC11_- Pin=C13-1
+Added Pin To Net: NetName=+5V Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=+5V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+5V Pin=C15-2
+Added Pin To Net: NetName=STROB0 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=ABC0 Pin=D1-3
+Added Pin To Net: NetName=STROB5 Pin=D1-4
+Added Pin To Net: NetName=ABC6 Pin=D1-5
+Added Pin To Net: NetName=ABC5 Pin=D1-6
+Added Pin To Net: NetName=GND Pin=D1-7
+Added Pin To Net: NetName=ABC2 Pin=D1-8
+Added Pin To Net: NetName=NetD1_2 Pin=D1-9
+Added Pin To Net: NetName=STROB2 Pin=D1-10
+Added Pin To Net: NetName=ABC6 Pin=D1-11
+Added Pin To Net: NetName=STROB6 Pin=D1-12
+Added Pin To Net: NetName=NetD1_2 Pin=D1-13
+Added Pin To Net: NetName=+5V Pin=D1-14
+Added Pin To Net: NetName=ABC3 Pin=D2-1
+Added Pin To Net: NetName=ABC2 Pin=D2-2
+Added Pin To Net: NetName=ABC1 Pin=D2-3
+Added Pin To Net: NetName=ABC0 Pin=D2-4
+Added Pin To Net: NetName=Out1_P Pin=D2-5
+Added Pin To Net: NetName=Out1_N Pin=D2-6
+Added Pin To Net: NetName=NetD2_7 Pin=D2-7
+Added Pin To Net: NetName=GND Pin=D2-8
+Added Pin To Net: NetName=S2 Pin=D2-9
+Added Pin To Net: NetName=S1 Pin=D2-10
+Added Pin To Net: NetName=S0 Pin=D2-11
+Added Pin To Net: NetName=ABC7 Pin=D2-12
+Added Pin To Net: NetName=ABC6 Pin=D2-13
+Added Pin To Net: NetName=ABC5 Pin=D2-14
+Added Pin To Net: NetName=ABC4 Pin=D2-15
+Added Pin To Net: NetName=+5V Pin=D2-16
+Added Pin To Net: NetName=STROB4 Pin=D3-1
+Added Pin To Net: NetName=NetD1_2 Pin=D3-2
+Added Pin To Net: NetName=ABC4 Pin=D3-3
+Added Pin To Net: NetName=NetD3_4 Pin=D3-4
+Added Pin To Net: NetName=NetD3_5 Pin=D3-5
+Added Pin To Net: NetName=NetD3_6 Pin=D3-6
+Added Pin To Net: NetName=GND Pin=D3-7
+Added Pin To Net: NetName=NetD2_7 Pin=D3-8
+Added Pin To Net: NetName=NetD3_5 Pin=D3-9
+Added Pin To Net: NetName=NetD3_4 Pin=D3-10
+Added Pin To Net: NetName=ABC3 Pin=D3-11
+Added Pin To Net: NetName=STROB3 Pin=D3-12
+Added Pin To Net: NetName=ABC4 Pin=D3-13
+Added Pin To Net: NetName=+5V Pin=D3-14
+Added Pin To Net: NetName=STROB5 Pin=D4-1
+Added Pin To Net: NetName=STROB1 Pin=D4-2
+Added Pin To Net: NetName=STROB0 Pin=D4-3
+Added Pin To Net: NetName=STROB2 Pin=D4-4
+Added Pin To Net: NetName=STROB6 Pin=D4-5
+Added Pin To Net: NetName=STROB7 Pin=D4-6
+Added Pin To Net: NetName=STROB3 Pin=D4-7
+Added Pin To Net: NetName=GND Pin=D4-8
+Added Pin To Net: NetName=STROB4 Pin=D4-10
+Added Pin To Net: NetName=NetD4_12 Pin=D4-12
+Added Pin To Net: NetName=GND Pin=D4-13
+Added Pin To Net: NetName=NetD4_14 Pin=D4-14
+Added Pin To Net: NetName=Reset Pin=D4-15
+Added Pin To Net: NetName=+5V Pin=D4-16
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_3 Pin=D5-3
+Added Pin To Net: NetName=NetD5_4 Pin=D5-4
+Added Pin To Net: NetName=Out2_P Pin=D5-5
+Added Pin To Net: NetName=Out2_N Pin=D5-6
+Added Pin To Net: NetName=NetD3_6 Pin=D5-7
+Added Pin To Net: NetName=GND Pin=D5-8
+Added Pin To Net: NetName=S5 Pin=D5-9
+Added Pin To Net: NetName=S4 Pin=D5-10
+Added Pin To Net: NetName=S3 Pin=D5-11
+Added Pin To Net: NetName=NetD5_12 Pin=D5-12
+Added Pin To Net: NetName=NetD5_13 Pin=D5-13
+Added Pin To Net: NetName=NetD5_14 Pin=D5-14
+Added Pin To Net: NetName=NetD5_15 Pin=D5-15
+Added Pin To Net: NetName=+5V Pin=D5-16
+Added Pin To Net: NetName=NetD4_12 Pin=D6-1
+Added Pin To Net: NetName=NetD3_5 Pin=D6-2
+Added Pin To Net: NetName=NetD1_2 Pin=D6-3
+Added Pin To Net: NetName=NetD1_2 Pin=D6-4
+Added Pin To Net: NetName=STROB1 Pin=D6-5
+Added Pin To Net: NetName=ABC1 Pin=D6-6
+Added Pin To Net: NetName=GND Pin=D6-7
+Added Pin To Net: NetName=ABC7 Pin=D6-8
+Added Pin To Net: NetName=STROB7 Pin=D6-9
+Added Pin To Net: NetName=NetD1_2 Pin=D6-10
+Added Pin To Net: NetName=NetD6_11 Pin=D6-11
+Added Pin To Net: NetName=NetD3_4 Pin=D6-12
+Added Pin To Net: NetName=NetD3_4 Pin=D6-13
+Added Pin To Net: NetName=+5V Pin=D6-14
+Added Pin To Net: NetName=NetD7_3 Pin=D7-3
+Added Pin To Net: NetName=NetD7_4 Pin=D7-4
+Added Pin To Net: NetName=NetD7_5 Pin=D7-5
+Added Pin To Net: NetName=GND Pin=D7-8
+Added Pin To Net: NetName=NetD7_9 Pin=D7-9
+Added Pin To Net: NetName=NetD7_10 Pin=D7-10
+Added Pin To Net: NetName=NetD7_12 Pin=D7-12
+Added Pin To Net: NetName=GND Pin=D7-13
+Added Pin To Net: NetName=NetD6_11 Pin=D7-14
+Added Pin To Net: NetName=Reset Pin=D7-15
+Added Pin To Net: NetName=+5V Pin=D7-16
+Added Pin To Net: NetName=NetC10_1 Pin=D8-1
+Added Pin To Net: NetName=ON/OFF Pin=D8-2
+Added Pin To Net: NetName=NetD8_3 Pin=D8-3
+Added Pin To Net: NetName=NetD8_3 Pin=D8-4
+Added Pin To Net: NetName=NetD8_3 Pin=D8-5
+Added Pin To Net: NetName=NetC10_2 Pin=D8-6
+Added Pin To Net: NetName=GND Pin=D8-7
+Added Pin To Net: NetName=NetD8_8 Pin=D8-8
+Added Pin To Net: NetName=NetC10_2 Pin=D8-9
+Added Pin To Net: NetName=NetC10_2 Pin=D8-10
+Added Pin To Net: NetName=NetD4_14 Pin=D8-11
+Added Pin To Net: NetName=NetD8_8 Pin=D8-12
+Added Pin To Net: NetName=NetD8_8 Pin=D8-13
+Added Pin To Net: NetName=+5V Pin=D8-14
+Added Pin To Net: NetName=NetD4_14 Pin=D9-1
+Added Pin To Net: NetName=+5V Pin=D9-2
+Added Pin To Net: NetName=S0 Pin=D9-3
+Added Pin To Net: NetName=S1 Pin=D9-4
+Added Pin To Net: NetName=S2 Pin=D9-5
+Added Pin To Net: NetName=NetD9_6 Pin=D9-6
+Added Pin To Net: NetName=Reset Pin=D9-7
+Added Pin To Net: NetName=GND Pin=D9-8
+Added Pin To Net: NetName=NetD9_6 Pin=D9-9
+Added Pin To Net: NetName=+5V Pin=D9-10
+Added Pin To Net: NetName=S3 Pin=D9-11
+Added Pin To Net: NetName=S4 Pin=D9-12
+Added Pin To Net: NetName=S5 Pin=D9-13
+Added Pin To Net: NetName=NetD3_4 Pin=D9-14
+Added Pin To Net: NetName=Reset Pin=D9-15
+Added Pin To Net: NetName=+5V Pin=D9-16
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=NetC11_+ Pin=D10-2
+Added Pin To Net: NetName=+5V Pin=D10-3
+Added Pin To Net: NetName=ABC0 Pin=R1-1
+Added Pin To Net: NetName=NetD5_4 Pin=R1-2
+Added Pin To Net: NetName=ABC1 Pin=R2-1
+Added Pin To Net: NetName=NetD5_3 Pin=R2-2
+Added Pin To Net: NetName=ABC2 Pin=R3-1
+Added Pin To Net: NetName=NetD5_2 Pin=R3-2
+Added Pin To Net: NetName=ABC3 Pin=R4-1
+Added Pin To Net: NetName=NetD5_1 Pin=R4-2
+Added Pin To Net: NetName=ABC4 Pin=R5-1
+Added Pin To Net: NetName=NetD5_15 Pin=R5-2
+Added Pin To Net: NetName=ABC5 Pin=R6-1
+Added Pin To Net: NetName=NetD5_14 Pin=R6-2
+Added Pin To Net: NetName=ABC6 Pin=R7-1
+Added Pin To Net: NetName=NetD5_13 Pin=R7-2
+Added Pin To Net: NetName=ABC7 Pin=R8-1
+Added Pin To Net: NetName=NetD5_12 Pin=R8-2
+Added Pin To Net: NetName=NetD7_3 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetD7_4 Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetD7_10 Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetD7_5 Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetD7_9 Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetD7_12 Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetC10_1 Pin=R15-1
+Added Pin To Net: NetName=NetD8_8 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR9_2 Pin=VD1-A
+Added Pin To Net: NetName=GND Pin=VD1-C
+Added Pin To Net: NetName=NetR10_2 Pin=VD2-A
+Added Pin To Net: NetName=GND Pin=VD2-C
+Added Pin To Net: NetName=NetR11_2 Pin=VD3-A
+Added Pin To Net: NetName=GND Pin=VD3-C
+Added Pin To Net: NetName=NetR12_2 Pin=VD4-A
+Added Pin To Net: NetName=GND Pin=VD4-C
+Added Pin To Net: NetName=NetR13_2 Pin=VD5-A
+Added Pin To Net: NetName=GND Pin=VD5-C
+Added Pin To Net: NetName=NetR14_2 Pin=VD6-A
+Added Pin To Net: NetName=GND Pin=VD6-C
+Added Pin To Net: NetName=+5V Pin=VD7-A
+Added Pin To Net: NetName=NetR16_2 Pin=VD7-C
+Added Pin To Net: NetName=Out1_P Pin=XP1-1
+Added Pin To Net: NetName=Out1_N Pin=XP1-2
+Added Pin To Net: NetName=GND Pin=XP1-3
+Added Pin To Net: NetName=GND Pin=XP1-4
+Added Pin To Net: NetName=GND Pin=XP1-5
+Added Pin To Net: NetName=GND Pin=XP1-6
+Added Pin To Net: NetName=GND Pin=XP1-7
+Added Pin To Net: NetName=GND Pin=XP1-8
+Added Pin To Net: NetName=Out2_P Pin=XP1-9
+Added Pin To Net: NetName=Out2_N Pin=XP1-10
+Added Pin To Net: NetName=ON/OFF Pin=XP2-1
+Added Pin To Net: NetName=Reset Pin=XP2-2
+Added Pin To Net: NetName=NetD3_5 Pin=XP2-3
+Added Pin To Net: NetName=NetC11_+ Pin=XP2-7
+Added Pin To Net: NetName=NetC11_+ Pin=XP2-8
+Added Pin To Net: NetName=GND Pin=XP2-9
+Added Pin To Net: NetName=GND Pin=XP2-10
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component C1
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component C2 *
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component C3 *
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component C4
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component C5
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component C6
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component C7
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component C8
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component C9
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component C10 1210
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component C11 *
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component C12 *
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component C13
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component C14
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component C15
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component D1 74AC00SC
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component D2 SOIC-16
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component D3 74AC00SC
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component D4 SOIC-16
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component D5 SOIC-16
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component D6 74AC00SC
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component D7 SOIC-16
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component D8 74AC00SC
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component D9 MC14520BDWG "Motorola"
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component D10 LM1117DTX
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R1 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R2 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R3 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R4 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R5 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R6 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R7 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R8 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R9 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R10 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R11 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R12 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R13 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component R14 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component R15 0805
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component R16 Р1-12-0,1 * 5%-M-"A" АЛЯР.434110.005 ТУ
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component VD1 *
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component VD2 *
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component VD3 *
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component VD4 *
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component VD5 *
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component VD6 *
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component VD7 *
+Added Member To Class: ClassName=ivt33_kuznecov_list1_9var Member=Component XP1 TE_1-1634689-0
+Added Member To Class: ClassName=ivt33_kuznecov_list2_9var Member=Component XP2 TE_1-1634689-0
+Added Room: Name=ivt33_kuznecov_list1_9var
+Added Room: Name=ivt33_kuznecov_list2_9var
